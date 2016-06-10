@@ -3,28 +3,32 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+North Carolina State University
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2004 - 2009`
+__Bogazici University__
+BSc in Mathematics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2009- 2011`
+__Fatih University__
+MSc in Mathematics
 
-## Awards
+`2011- 2016`
+__North Carolina State University__
+PhD in Applied Mathematics
+
+<!--#  Awards>
 
 `2012`
-Name of Award, Organization 
+#Name of Award, Organization
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+<!--### Journals
 
 `1994`
 Article Title, Journal Title
@@ -50,13 +54,13 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
@@ -66,5 +70,3 @@ __Current Job Title__, Current Employer
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
