@@ -8,5 +8,8 @@
 - title: Resume
   url: /resume/
 
-- title: Blog
-  url: /archive/
+- title: New
+  url: /New/
+
+#- title: Blog
+#  url: /archive/
