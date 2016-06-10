@@ -11,11 +11,11 @@ North Carolina State University
 __Bogazici University__
 BSc in Mathematics
 
-`2009- 2011`
+`2009 - 2011`
 __Fatih University__
 MSc in Mathematics
 
-`2011- 2016`
+`2011 - 2016`
 __North Carolina State University__
 PhD in Applied Mathematics
 
