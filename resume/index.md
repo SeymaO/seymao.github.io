@@ -7,17 +7,23 @@ North Carolina State University
 
 ## Education
 
-`2004 - 2009`
-__Bogazici University__
-BSc in Mathematics
+`2011 - 2016`
+__North Carolina State University__
+PhD in Applied Mathematics
+
 
 `2009 - 2011`
 __Fatih University__
 MSc in Mathematics
 
-`2011 - 2016`
-__North Carolina State University__
-PhD in Applied Mathematics
+
+`2004 - 2009`
+__Bogazici University__
+BSc in Mathematics
+
+
+
+
 
 <!--#  Awards>
 
