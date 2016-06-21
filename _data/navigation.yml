@@ -8,8 +8,11 @@
 - title: Resume
   url: /resume/
 
-#- title: New
-#  url: /New/
+#- title: Journal
+#  url: /Journal/
 
-- title: Blog
-  url: /archive/
+# title: Blog
+#  url: /archive/
+
+- title: Teaching
+  url: /Teaching/MA107
