@@ -7,7 +7,7 @@ North Carolina State University
 
 ## Education
 
-`2011 - `
+`2011 - 2016`
 __North Carolina State University__
 PhD in Applied Mathematics
 
